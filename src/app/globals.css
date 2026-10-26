@@ -1,0 +1,110 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-cream-50 text-ink-900 antialiased;
+    font-family: var(--font-inter), system-ui, sans-serif;
+    overflow-x: hidden;
+  }
+  h1,
+  h2,
+  h3,
+  .font-serif {
+    font-family: var(--font-noto-serif-display), Georgia, serif;
+  }
+  :focus-visible {
+    @apply outline-none ring-2 ring-gold-500 ring-offset-2 ring-offset-cream-50;
+  }
+}
+
+@layer components {
+  .container-x {
+    @apply mx-auto w-full max-w-6xl px-4 sm:px-6;
+  }
+  .btn {
+    @apply inline-flex min-h-11 items-center justify-center gap-2 rounded px-5 text-sm font-medium transition-colors disabled:cursor-not-allowed disabled:opacity-60;
+  }
+  .btn-gold {
+    @apply btn bg-gold-500 text-emerald-900 hover:bg-gold-300;
+  }
+  .btn-outline {
+    @apply btn border border-gold-500 text-emerald-900 hover:bg-white;
+  }
+  .btn-ghost {
+    @apply btn text-emerald-900 hover:bg-white;
+  }
+  .btn-dark {
+    @apply btn bg-emerald-900 text-cream-50 hover:bg-emerald-700;
+  }
+  .card {
+    @apply rounded bg-white shadow-card;
+  }
+  .label-caps {
+    @apply text-xs font-medium uppercase tracking-[0.12em] text-ink-500;
+  }
+  .input {
+    @apply w-full rounded border border-ink-500/30 bg-white px-3 py-2.5 text-base text-ink-900 placeholder:text-ink-500/70 focus:border-gold-500;
+  }
+  .no-scrollbar {
+    scrollbar-width: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* Двойной ползунок цены: два input[type=range] поверх друг друга,
+   кликабельны только бегунки. */
+.range-dual {
+  position: relative;
+  height: 2.25rem;
+}
+.range-dual input[type="range"] {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  background: transparent;
+  pointer-events: none;
+  -webkit-appearance: none;
+  appearance: none;
+}
+.range-dual input[type="range"]::-webkit-slider-runnable-track {
+  background: transparent;
+}
+.range-dual input[type="range"]::-moz-range-track {
+  background: transparent;
+}
+.range-dual input[type="range"]::-webkit-slider-thumb {
+  pointer-events: auto;
+  -webkit-appearance: none;
+  appearance: none;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: #ffffff;
+  border: 2px solid #c9a227;
+  box-shadow: 0 1px 3px rgba(20, 32, 27, 0.2);
+  cursor: pointer;
+}
+.range-dual input[type="range"]::-moz-range-thumb {
+  pointer-events: auto;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: #ffffff;
+  border: 2px solid #c9a227;
+  box-shadow: 0 1px 3px rgba(20, 32, 27, 0.2);
+  cursor: pointer;
+}
+.range-dual input[type="range"]:focus-visible::-webkit-slider-thumb {
+  outline: 2px solid #c9a227;
+  outline-offset: 2px;
+}

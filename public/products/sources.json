@@ -1,0 +1,594 @@
+[
+  {
+    "slug": "afnan-9-pm-night-out",
+    "url": "https://cdn.notinoimg.com/detail_main_hq/afnan/6290171077459_01-o/9-pm-night-out___260128.jpg",
+    "type": "retailer",
+    "page": "https://www.notino.co.uk/afnan/9-pm-night-out-perfume-extract-unisex/",
+    "sourceWidth": 388,
+    "sourceHeight": 1000,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "afnan-9-pm-rebel",
+    "url": "https://cdn.notinoimg.com/detail_main_hq/afnan/6290171075288_01-o/9-pm-rebel___250225.jpg",
+    "type": "retailer",
+    "page": "https://www.notino.co.uk/afnan/9-pm-rebel-eau-de-parfum-unisex/",
+    "sourceWidth": 389,
+    "sourceHeight": 1000,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "ard-al-zaafaran-ahlam-al-arab",
+    "url": "https://cdn.shopify.com/s/files/1/0014/6590/9313/products/63707a5eb778ce06271c3975.png?v=1680197277",
+    "type": "retailer",
+    "page": "https://tripletraders.com/products/ahlam-al-arab-spicy-woody-musky-eau-de-perfume-80ml-with-deodrant-by-ard-al-zaafaran-perfumes",
+    "sourceWidth": 1125,
+    "sourceHeight": 1500,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "asdaaf-ameerat-al-arab",
+    "url": "https://cdn.shopify.com/s/files/1/0815/8848/6483/files/ameerat-al-arab-est-ndar.png?v=1783016378",
+    "type": "retailer",
+    "page": "https://arabicparfums.com/en/products/ameerat-al-arab-asdaaf",
+    "sourceWidth": 1024,
+    "sourceHeight": 1024,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "dumont-borouj-mysterious",
+    "url": "https://cdn.shopify.com/s/files/1/0742/3105/4646/products/Borouj_Mysterious.jpg?v=1771315712",
+    "type": "brand-site",
+    "page": "https://dumontparfums.com/products/borouj-mysterious",
+    "sourceWidth": 780,
+    "sourceHeight": 710,
+    "sourceFormat": "jpeg",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "emper-chic-sonia",
+    "url": "https://cdn.shopify.com/s/files/1/0761/7586/7994/files/chic-sonna_wt_box_4994c174-36b9-43f7-8862-09bda3e9aa50.jpg?v=1789115093",
+    "type": "brand-site",
+    "page": "https://emperperfumes.com/products/chic-sonia",
+    "sourceWidth": 3402,
+    "sourceHeight": 3402,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "emper-epic-adventure",
+    "url": "https://cdn.shopify.com/s/files/1/0761/7586/7994/files/Epic_Adventure_wt_box_38ba3233-45e0-49ff-87f9-fcf33fd8a347.jpg?v=1789115080",
+    "type": "brand-site",
+    "page": "https://emperperfumes.com/products/epic-adventure",
+    "sourceWidth": 1946,
+    "sourceHeight": 1946,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "fatima-fatima",
+    "url": "",
+    "type": "placeholder",
+    "generatedAt": "2026-10-26"
+  },
+  {
+    "slug": "fragrance-world-amber-dor",
+    "url": "https://www.boozyshop.com/cdn/shop/files/fragrance-world-amber-dor-eau-de-parfum-68141192053119.png",
+    "type": "retailer",
+    "page": "https://boozyshop.com/products/fragrance-world-amber-dor-eau-de-parfum",
+    "sourceWidth": 1500,
+    "sourceHeight": 1500,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "fragrance-world-explore",
+    "url": "https://arabicparfums.com/cdn/shop/files/13345.jpg",
+    "type": "retailer",
+    "page": "https://arabicparfums.com/en/products/explore-fragrance-world",
+    "sourceWidth": 960,
+    "sourceHeight": 960,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "fragrance-world-hayaati-royale",
+    "url": "https://cdn.shopify.com/s/files/1/0014/6590/9313/files/e456fytghg_5.png",
+    "type": "retailer",
+    "page": "https://tripletraders.com/products/hayaati-royale-eau-de-parfum-by-fragrance-world-100ml-3-4-fl-oz",
+    "sourceWidth": 1280,
+    "sourceHeight": 1280,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "fragrance-world-invicto-legend",
+    "url": "https://arabicparfums.com/cdn/shop/files/15738.jpg",
+    "type": "retailer",
+    "page": "https://arabicparfums.com/en/products/invicto-legend-fragrance-world-100ml",
+    "sourceWidth": 823,
+    "sourceHeight": 823,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "fragrance-world-montera-rouge-tobacco",
+    "url": "https://arabicparfums.com/cdn/shop/files/15683.jpg",
+    "type": "retailer",
+    "page": "https://arabicparfums.com/en/products/montera-rouge-tobacco-fragrance-world-100ml",
+    "sourceWidth": 640,
+    "sourceHeight": 640,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "fragrance-world-pink-fame",
+    "url": "https://cdn.shopify.com/s/files/1/0978/9459/6935/files/Pink-Fame-Perfume-Eau-De-Parfum-by-Fragrance-World-Inspired-by-TM-Alien-goddess-Bottle.jpg",
+    "type": "retailer",
+    "page": "https://soghaat.co.uk/products/pink-fame-100ml-edp-by-fragrance-world",
+    "sourceWidth": 1521,
+    "sourceHeight": 1521,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "fragrance-world-spectre-ghost",
+    "url": "https://www.fragrancehub.co.uk/cdn/shop/files/87d5b74c-3c6f-4a0d-8db0-fee2bd6d8f37.jpg?v=1743862566",
+    "type": "retailer",
+    "page": "https://fragrancehub.co.uk/products/spectre-ghost-80ml-edp-by-fa-paris-fragrance-world",
+    "sourceWidth": 2048,
+    "sourceHeight": 2048,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "fragrance-world-toomford-pour-homme",
+    "url": "https://mapleprime.com/cdn/shop/files/3-4-oz-100-ml-fragrance-world-toom-ford-pour-homme-eau-de-parfum-for-men-38301696622900.jpg?v=1787151763",
+    "type": "retailer",
+    "page": "https://mapleprime.com/products/fragrance-world-toom-ford-pour-homme-eau-de-parfum-for-men",
+    "sourceWidth": 2048,
+    "sourceHeight": 2048,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "french-avenue-cocoa-morado",
+    "url": "https://cdn.shopify.com/s/files/1/0712/6220/8100/files/1_320a654a-bb73-417f-a6d7-4b87b2aac97f.jpg?v=1751985783",
+    "type": "brand-site",
+    "page": "https://frenchavenue.com/products/cocoa-morado",
+    "sourceWidth": 1334,
+    "sourceHeight": 2000,
+    "sourceFormat": "jpeg",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "french-avenue-elinor-green",
+    "url": "https://www.bjutip.com/image/cache/catalog/Perfumes/Unisex/6290360378923-800x800.png",
+    "type": "retailer",
+    "page": "https://www.bjutip.com/french-avenue-elinor-green-edp-u-100-ml",
+    "sourceWidth": 800,
+    "sourceHeight": 800,
+    "sourceFormat": "png",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "french-avenue-forbidden-fruit-aromatix-x",
+    "url": "https://cdn.shopify.com/s/files/1/0712/6220/8100/files/1_20.jpg?v=1762868499",
+    "type": "brand-site",
+    "page": "https://frenchavenue.com/products/aromatix-forbidden-fruit",
+    "sourceWidth": 4000,
+    "sourceHeight": 4000,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "french-avenue-grecia",
+    "url": "https://cdn.shopify.com/s/files/1/0712/6220/8100/files/1_d78d28b2-dee0-4a29-b5cd-f4e9b64facff.jpg?v=1751980043",
+    "type": "brand-site",
+    "page": "https://frenchavenue.com/products/grecia",
+    "sourceWidth": 1334,
+    "sourceHeight": 2000,
+    "sourceFormat": "jpeg",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "french-avenue-liquid-brun",
+    "url": "https://cdn.shopify.com/s/files/1/0712/6220/8100/files/LBLEPDP.jpg?v=1770646312",
+    "type": "brand-site",
+    "page": "https://frenchavenue.com/products/liquid-brun-limited-edition",
+    "sourceWidth": 1080,
+    "sourceHeight": 1080,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "french-avenue-royal-blend-sequoia",
+    "url": "https://cdn.shopify.com/s/files/1/0712/6220/8100/files/1-2025-08-14T133533.648.jpg?v=1755164226",
+    "type": "brand-site",
+    "page": "https://frenchavenue.com/products/royal-blend-sequoia",
+    "sourceWidth": 3335,
+    "sourceHeight": 5000,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "french-avenue-royal-taboo-aromatix-x",
+    "url": "https://cdn.shopify.com/s/files/1/0712/6220/8100/files/1_eec6b432-3875-438d-937d-c40f36340f1b.jpg?v=1751975404",
+    "type": "brand-site",
+    "page": "https://frenchavenue.com/products/royal-taboo",
+    "sourceWidth": 1334,
+    "sourceHeight": 2000,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "french-avenue-sultan-the-founder",
+    "url": "https://cdn.shopify.com/s/files/1/0014/6590/9313/files/er2s3d4ftgy.png?v=1743181757",
+    "type": "retailer",
+    "page": "https://tripletraders.com/products/the-founder-sultan-by-fa-paris-fragrance-world-80ml-2-7-fl-oz",
+    "sourceWidth": 1000,
+    "sourceHeight": 1000,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "french-avenue-veneno-bianco",
+    "url": "https://cdn.shopify.com/s/files/1/0712/6220/8100/files/1_fa8b4c69-a5c0-4c52-b4cf-d93047a45b09.jpg?v=1751984701",
+    "type": "brand-site",
+    "page": "https://frenchavenue.com/products/veneno-bianco",
+    "sourceWidth": 1334,
+    "sourceHeight": 2000,
+    "sourceFormat": "jpeg",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "french-avenue-veneno-scarlet",
+    "url": "https://cdn.shopify.com/s/files/1/0712/6220/8100/files/1-2025-08-14T142430.816.jpg?v=1755167153",
+    "type": "brand-site",
+    "page": "https://frenchavenue.com/products/veneno-scarlet",
+    "sourceWidth": 3335,
+    "sourceHeight": 5000,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "french-avenue-venus-de-milo",
+    "url": "https://cdn.notinoimg.com/detail_main_hq/french_avenue/6290360377988_01-o/venus-de-milo___250605.jpg",
+    "type": "retailer",
+    "page": "https://www.notino.co.uk/french-avenue/venus-de-milo-eau-de-parfum-for-women/",
+    "sourceWidth": 512,
+    "sourceHeight": 1000,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "french-avenue-vulcan-feu",
+    "url": "https://www.fragrancehub.co.uk/cdn/shop/files/Vulcan-Feu-Perfume-Eau-De-Parfum-100ml-by-French-Avenue-Fragrance-World.jpg?v=1746177887",
+    "type": "retailer",
+    "page": "https://www.fragrancehub.co.uk/products/vulcan-feu-100ml-edp-by-french-avenue",
+    "sourceWidth": 2048,
+    "sourceHeight": 2048,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "french-avenue-zenith-blue",
+    "url": "https://cdn.shopify.com/s/files/1/0712/6220/8100/files/1-2025-08-14T140231.638.jpg?v=1755165791",
+    "type": "brand-site",
+    "page": "https://frenchavenue.com/products/zenith-blue",
+    "sourceWidth": 3335,
+    "sourceHeight": 5000,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "khadlaj-vanilla-dunes",
+    "url": "https://cdn.shopify.com/s/files/1/0626/6119/8023/files/Island_Vanilla-3.jpg?v=1783945707",
+    "type": "brand-site",
+    "page": "https://khadlaj-perfumes.com/products/khadlaj-island-vanilla-dunes-100-ml-extrait-de-parfum-spray-for-men",
+    "sourceWidth": 2157,
+    "sourceHeight": 2157,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "la-paretta-red",
+    "url": "",
+    "type": "placeholder",
+    "generatedAt": "2026-10-26"
+  },
+  {
+    "slug": "lattafa-badee-al-oud-amethyst",
+    "url": "https://lattafa.com/wp-content/uploads/2024/10/BADEE-AL-OUD-AMETHYST-BOX-AND-BOTTLE_page-0002.jpg",
+    "type": "brand-site",
+    "page": "https://lattafa.com/product/badee-al-oud-amethyest/",
+    "sourceWidth": 1754,
+    "sourceHeight": 1754,
+    "sourceFormat": "jpeg",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "lattafa-fakhar-pride",
+    "url": "https://lattafa.com/wp-content/uploads/2024/07/Fakhar-Lattafa-Women-01.jpg",
+    "type": "brand-site",
+    "page": "https://lattafa.com/product/fakhar-lattafa-women/",
+    "sourceWidth": 2480,
+    "sourceHeight": 2480,
+    "sourceFormat": "jpeg",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "lattafa-hayaati-gold-elixir",
+    "url": "https://lattafa.com/wp-content/uploads/2024/04/2-24.jpg",
+    "type": "brand-site",
+    "page": "https://lattafa.com/product/hayaati-gold-elixir/",
+    "sourceWidth": 2560,
+    "sourceHeight": 2560,
+    "sourceFormat": "jpeg",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "lattafa-khamrah-qahwa",
+    "url": "https://lattafa.com/wp-content/uploads/2024/05/1-79.jpg",
+    "type": "brand-site",
+    "page": "https://lattafa.com/product/khamrah-qahwa/",
+    "sourceWidth": 2560,
+    "sourceHeight": 2560,
+    "sourceFormat": "jpeg",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "lattafa-pride-afaq",
+    "url": "https://lattafa.com/wp-content/uploads/2024/05/Afaq-Gold-01.jpg",
+    "type": "brand-site",
+    "page": "https://lattafa.com/product/afaq/",
+    "sourceWidth": 2480,
+    "sourceHeight": 2480,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "lattafa-teriaq-intense",
+    "url": "https://lattafa.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-18-at-11.25.59.jpeg",
+    "type": "brand-site",
+    "page": "https://lattafa.com/product/lattafa-teriaq-intense/",
+    "sourceWidth": 702,
+    "sourceHeight": 1600,
+    "sourceFormat": "jpeg",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "maison-alhambra-avant-ruby",
+    "url": "https://arabicparfums.com/cdn/shop/files/avant-ruby-est-ndar.png",
+    "type": "retailer",
+    "page": "https://arabicparfums.com/en/products/avant-ruby-maison-alhambra",
+    "sourceWidth": 1024,
+    "sourceHeight": 1024,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "maison-alhambra-eclat-de-lune",
+    "url": "https://arabicparfums.com/cdn/shop/files/16586.jpg",
+    "type": "retailer",
+    "page": "https://arabicparfums.com/en/products/eclat-de-lune-maison-alhambra-100ml",
+    "sourceWidth": 1080,
+    "sourceHeight": 1080,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "maison-alhambra-ladies-camille",
+    "url": "https://arabicparfums.com/cdn/shop/files/16584.jpg",
+    "type": "retailer",
+    "page": "https://arabicparfums.com/en/products/camille-maison-alhambra-100ml",
+    "sourceWidth": 686,
+    "sourceHeight": 668,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "maison-asrar-fakhama",
+    "url": "https://cdn.shopify.com/s/files/1/0703/6000/6968/files/Fakhama_Maison_Asrar_Perfume_White_Background_Bottle.webp?v=1787990925",
+    "type": "brand-site",
+    "page": "https://maisonasrar.com/products/maison-asrar-fakhama-eau-de-parfum-100-ml-for-women",
+    "sourceWidth": 2000,
+    "sourceHeight": 2000,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "milestone-hayati-lychee",
+    "url": "https://cdn.shopify.com/s/files/1/0724/0279/6812/files/HayatiLycheeEaudeParfum100ml.webp?v=1771845209",
+    "type": "retailer",
+    "page": "https://en.bplatz.de/products/milestone-hayati-lychee-eau-de-parfum-100-ml",
+    "sourceWidth": 1600,
+    "sourceHeight": 1600,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "milestone-hayati-marshmallow",
+    "url": "https://cdn.shopify.com/s/files/1/0724/0279/6812/files/MilestoneHayatiMarshmallowEaudeParfum100ml.webp?v=1771830953",
+    "type": "retailer",
+    "page": "https://en.bplatz.de/products/milestone-hayati-marshmallow-eau-de-parfum-100-ml",
+    "sourceWidth": 1600,
+    "sourceHeight": 1600,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "orlov-paris-fancy-red",
+    "url": "https://media.thescentbase.com/perfumes/fancy-red-orlov-paris.jpg",
+    "type": "other",
+    "page": "https://thescentbase.com/perfumes/orlov-paris/fancy-red",
+    "sourceWidth": 750,
+    "sourceHeight": 1000,
+    "sourceFormat": "jpeg",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "rasasi-afshan",
+    "url": "https://cdn.shopify.com/s/files/1/0670/2940/1841/files/Afsan_1.jpg",
+    "type": "brand-site",
+    "page": "https://rasasistore.com/products/afshan",
+    "sourceWidth": 2096,
+    "sourceHeight": 2792,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "rasasi-arba-wardat",
+    "url": "https://cdn.shopify.com/s/files/1/0670/2940/1841/files/ArhaWardat_1.jpg",
+    "type": "brand-site",
+    "page": "https://rasasistore.com/products/arba-wardat",
+    "sourceWidth": 2096,
+    "sourceHeight": 2792,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "rasasi-hawas-ice",
+    "url": "https://cdn.shopify.com/s/files/1/0670/2940/1841/files/Hawas_Ice_1.jpg",
+    "type": "brand-site",
+    "page": "https://rasasistore.com/products/hawas-ice",
+    "sourceWidth": 2096,
+    "sourceHeight": 2096,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "rasasi-romance",
+    "url": "https://media.myaster.com/images/products/1066341/rasasi-romance-eau-de-parfum-for-women-45ml/1066341_1.jpg",
+    "type": "retailer",
+    "page": "https://www.myaster.com/en/online-pharmacy/p/rasasi-romance-eau-de-parfum-for-women-45ml/1066341",
+    "sourceWidth": 1024,
+    "sourceHeight": 1024,
+    "sourceFormat": "heif",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "rasasi-secret",
+    "url": "https://media.myaster.com/images/products/1066343/rasasi-secret-eau-de-parfum-for-women-75ml/1066343_1.jpg",
+    "type": "retailer",
+    "page": "https://www.myaster.com/en/online-pharmacy/p/rasasi-secret-eau-de-parfum-for-women-75ml/1066343",
+    "sourceWidth": 1024,
+    "sourceHeight": 1024,
+    "sourceFormat": "heif",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "rayhaan-azul",
+    "url": "https://cdn.shopify.com/s/files/1/0589/3849/0927/files/azul.jpg",
+    "type": "brand-site",
+    "page": "https://rayhaanperfumes.me/products/azul",
+    "sourceWidth": 1490,
+    "sourceHeight": 1534,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "rayhaan-elixir",
+    "url": "https://cdn.shopify.com/s/files/1/0589/3849/0927/files/1Elixir.jpg",
+    "type": "brand-site",
+    "page": "https://rayhaanperfumes.me/products/elixir",
+    "sourceWidth": 1480,
+    "sourceHeight": 1480,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "rayhaan-nava-sol",
+    "url": "https://cdn.shopify.com/s/files/1/0589/3849/0927/files/1_6e1e4839-fd50-4d79-adaa-37ec2b72ab24.png",
+    "type": "brand-site",
+    "page": "https://rayhaanperfumes.me/products/nava-sol",
+    "sourceWidth": 1500,
+    "sourceHeight": 1500,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "rayhaan-nocturno-pour-homme",
+    "url": "https://cdn.shopify.com/s/files/1/0589/3849/0927/files/1Nocturno.jpg",
+    "type": "brand-site",
+    "page": "https://rayhaanperfumes.me/products/nocturno",
+    "sourceWidth": 1480,
+    "sourceHeight": 1480,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "rayhaan-obsidian",
+    "url": "https://cdn.shopify.com/s/files/1/0589/3849/0927/files/1Obsidian.jpg",
+    "type": "brand-site",
+    "page": "https://rayhaanperfumes.me/products/rayhaan-obsidian",
+    "sourceWidth": 1480,
+    "sourceHeight": 1480,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "riiffs-goodness-oud",
+    "url": "https://www.bjutip.com/image/cache/catalog/Perfumes/Men/6291106908435-800x800.jpg",
+    "type": "retailer",
+    "page": "https://www.bjutip.com/riiffs/riiffs-goodness-oud-edp-m-100-ml",
+    "sourceWidth": 800,
+    "sourceHeight": 800,
+    "sourceFormat": "jpeg",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "rue-broca-pride-pour-femme",
+    "url": "https://ecombe.nahdionline.com/media/catalog/product/1/0/103191727_66f3ae347123a1dc5_48029.png",
+    "type": "retailer",
+    "page": "https://www.nahdionline.com/en-sa/rue-broca-pride-pour-femme-eau-de-parfum-for-women-100-ml/pdp/103191727",
+    "sourceWidth": 750,
+    "sourceHeight": 750,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "rue-broca-pride-pour-homme",
+    "url": "https://ecombe.nahdionline.com/media/catalog/product/1/0/103831771_a608036b724863043_18872.jpg",
+    "type": "retailer",
+    "page": "https://www.nahdionline.com/en-ae/rue-broca-pride-pour-homme-edp-100-ml/pdp/103831771",
+    "sourceWidth": 822,
+    "sourceHeight": 1110,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "zimaya-grandeur",
+    "url": "https://tripletraders.com/cdn/shop/files/61qgIxtDg6L._SL1000.jpg?v=1744736551",
+    "type": "retailer",
+    "page": "https://tripletraders.com/products/grandeur-eau-de-parfum-by-zimaya-afnan-100ml-3-4-fl-oz",
+    "sourceWidth": 1000,
+    "sourceHeight": 1000,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "zimaya-tiramisu-caramel",
+    "url": "https://www.fragrancehub.co.uk/cdn/shop/files/0cb06cda-8550-40bd-a7d9-8f77c17ef043.jpg?v=1743863142",
+    "type": "retailer",
+    "page": "https://www.fragrancehub.co.uk/products/zimaya-tiramisu-caramel-100ml-eau-de-parfum",
+    "sourceWidth": 2048,
+    "sourceHeight": 2048,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "slug": "zimaya-zukhruf-black",
+    "url": "https://tripletraders.com/cdn/shop/files/gxp-15213.jpg?v=1764178050",
+    "type": "retailer",
+    "page": "https://tripletraders.com/products/zukhruf-black-eau-de-parfum-by-zimaya-afnan-100ml-3-4oz",
+    "sourceWidth": 700,
+    "sourceHeight": 700,
+    "sourceFormat": "webp",
+    "fetchedAt": "2026-10-26"
+  }
+]
